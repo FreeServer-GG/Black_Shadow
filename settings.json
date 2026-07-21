@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Black_Shadow",
+    "username": "BlackShadow",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "BLACKSHADOWMC-S1.aternos.me",
-    "port": 50809,
+    "ip": "Public_ShadowMC.aternos.me",
+    "port": 11579,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 400,
       "messages": [
         "I'm a regular player",
         "Join our discord server!!",
