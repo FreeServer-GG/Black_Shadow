@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "BLACKSHADOWMC-S1.aternos.me",
-    "port": 50809,
+    "ip": "SHADOWMC-S1.aternos.me",
+    "port": 51492,
     "version": "1.20.1",
     "try-creative": false
   },
